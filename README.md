@@ -43,6 +43,7 @@ Projeto de Machine Learning desenvolvido pelo **Grupo 03** focado em prever o pr
 
 ## 📁 Estrutura do Repositório
 
+```
 housing-prices-regression/
 ├── ProjetoFinal/
 |    ├── data/
@@ -57,10 +58,11 @@ housing-prices-regression/
 |    ├── Sprint02_Projeto_Grupo03.ipynb       # Tratamento e Engenharia de Features
 |    ├── Sprint03_Projeto_Grupo03.ipynb       # Treinamento e Seleção do Modelo
 |    └── Sprint04_Projeto_Grupo03.ipynb       # Diagnóstico Técnico e Entrega Final
-├── imagens
+├── imagens/
 ├── Aula10_Pesquisa_Grupo03.ipynb                 # Notebook de Pesquisa Complementar
 ├── real_estate_dataset.csv                       # Dataset bruto original
 └── README.md                                     # Documentação Principal
+```
 
 ---
 
